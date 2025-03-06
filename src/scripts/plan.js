@@ -1,3 +1,5 @@
+// 3 rows of crops, 6 plots of land per row
+
 const types = ["Soybean", "Corn", "Asparagus", "Wheat", "Potato", "Sunflower"]
 
 export const createPlan = () => {
